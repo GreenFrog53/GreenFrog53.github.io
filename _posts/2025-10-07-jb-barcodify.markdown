@@ -14,7 +14,7 @@ author: james
 description: My Little Chromium Extension
 ---
 ## About
-JB Barcodify is a chromium based extension that I wrote with the primary intention of showing barcodes on the JB Hi-Fi website. Since then it has evolved with little quality of life features that I think make the retail job just a little bit easier.
+JB Barcodify is a chromium based extension that I wrote with the primary intention of showing barcodes on the JB Hi-Fi website. Since then it has evolved with little quality of life features that I think make the retail job just a little bit easier. You can get it on the Chrome Web Store [here](https://chromewebstore.google.com/detail/nakfemijaepiebdfgjebkkijbhgpdlpj).
 ## Features
 - Display Barcodes on the Product Page of the Website
 - Display a button to open the Product Page in the internal Product App
@@ -44,4 +44,6 @@ What I didn't tell my manager however is that by the time I got back to Sydney (
 ---
 The first version of JB Barcodify was pretty bare-bones. It literally loaded, grabbed the html element where the PLU belonged, extracted the numbers from it, created a blank svg element on the page and generated a barcode, using a third party service. Whilst it worked, it lacked a certain level of polish that I would usually like in my work, and over the coming days, I made lots of improvements. 
 
-The extension today is pretty feature complete. I've made a lot of changes that I personally believe make the life of retail employees at JB Hi-Fi a lot easier than in the past. If you have any suggestions, issues or anything else, get in contact!
+The extension today is pretty feature complete. I've made a lot of changes that I personally believe make the life of retail employees at JB Hi-Fi a little easier than in the past. If you have any suggestions, issues or anything else, get in contact!
+
+If you'd like to look at the source code, you can find it [here](https://github.com/GreenFrog53/JB-Barcodify) on Github.

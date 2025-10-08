@@ -1,67 +1,11 @@
-<p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
-</p>
+This is the Github repository for the code that runs my personal website. It is hosted on [Github Pages](https://pages.github.com/) and uses the [Indigo](https://github.com/sergiokopplin/indigo) theme for [Jekyll](https://jekyllrb.com/) with some modifications.
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
-
-***
-
-<p align="center">
-    <b><a href="README.md#what-has-inside">What has inside</a></b>
-    |
-    <b><a href="README.md#setup">Setup</a></b>
-    |
-    <b><a href="README.md#settings">Settings</a></b>
-    |
-    <b><a href="README.md#how-to">How to</a></b>
-</p>
-
-<p align="center">
-    Light and Dark themes.
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
-
-## What has inside
-
-- [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
-- Page Speed: [99~Desktop](https://pagespeed.web.dev/analysis/https-sergiokopplin-github-io-indigo/41axptm3as?utm_source=psi&utm_medium=redirect&form_factor=desktop);
-
-## Setup
-
-0. :star: to the project. :metal:
-1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-2. Edit `_config.yml` with your data
-3. Write some posts :bowtie:
-
-To run locally do the following:
-
-1. Install [Jekyll](https://jekyllrb.com) and [Bundler](https://bundler.io/).
-2. Clone the forked repo on your machine
-3. Enter the cloned folder via terminal and run:
-```sh
-bundle install
-bundle exec jekyll serve
+### Running Locally
+To run this site locally, provided you have [Jekyll](https://jekyllrb.com/docs/) already installed, you can type this command in the repos working directory:
+```bash
+bundle exec jekyll serve --port 4001
 ```
-4. Open it in your browser: [http://localhost:4000](http://localhost:4000)
 
-Or run with [docker](https://github.com/BretFisher/jekyll-serve).
+You don't have to run this on port 4001, but the default (port 4000) is in use on my local setup.
 
-## Settings
-
-You can customize your site on `_config.yml` file.
-
-## How To?
-
-Check the [FAQ](./FAQ.md).
-
----
-## License
-
-[MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
-
----
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sergiokopplin/indigo&type=Date)](https://star-history.com/#sergiokopplin/indigo&Date)
+I've tried my best to attribute everyone that helped make this possible, but if I missed out, please let me know and i'll try to remedy it.

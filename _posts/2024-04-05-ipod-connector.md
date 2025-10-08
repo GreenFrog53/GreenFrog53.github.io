@@ -2,8 +2,8 @@
 title: "Save your Classic iPod from Yourself - A DIY Power Connector Reinforcement Guide"
 layout: post
 date: 2024-04-05 20:44
-image: /assets/images/jb-barcodify.png
-headerImage: false
+image: /assets/images/ipod1/6G_iPod.svg
+headerImage: true
 projects: false
 tag:
 - markdown
@@ -34,5 +34,8 @@ Now I can remove the dead hard drive, and undo the connector for the headphone j
 From here I removed the leftover rubber from the hard drive, cleaned up the inside a bit and then installed a new [iFlash Quad](https://www.iflash.xyz/store/iflash-quad/). I'm happy to say that iTunes did not freak out at all when reinstalling the OS and the iPod has been happy ever since!
 ![After Surgery](/assets/images/ipod1/PXL_20240404_124048723.jpg)
 
-So yeah, if you've ever torn out that tiny little connector from a classic iPod before, maybe stop for a few minutes and reinforce it with some glue. It's going to save you a good $60 if you send it off to be repaired or if you can solder it yourself, less frustration with the iron in your hand!
+So yeah, if you've ever torn out that tiny little connector from a classic iPod before, maybe stop for a few minutes and reinforce it with some glue. It's going to save you a good $60 if you send it off to get repaired and even if you feel comfortable enough to solder it yourself, save yourself the frustration with the iron in your hand!
 Regardless, happy iPod modding everyone!
+
+Header photo by <a href="https://es.wikipedia.org/wiki/Usuario:House" class="extiw" title="es:Usuario:House">es:Usuario:House</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5626096">Link.</a>
+All other photos on this page are my own.
